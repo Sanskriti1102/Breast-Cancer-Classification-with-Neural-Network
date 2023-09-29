@@ -6,8 +6,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-yellow.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-red.svg)
 
-## Code Link:
-🔗[Breast Cancer Classification with Neural Network Code](https://github.com/Sanskriti1102/Breast-Cancer-Classification-with-Neural-Network/blob/main/Breast%20Cancer%20Classification%20with%20Neural%20Network%20.ipynb)
+## Code Link
+[Breast Cancer Classification with Neural Network Code](https://github.com/Sanskriti1102/Breast-Cancer-Classification-with-Neural-Network/blob/main/Breast%20Cancer%20Classification%20with%20Neural%20Network%20.ipynb)
 
 ## Overview
 
@@ -38,10 +38,10 @@ Before running the code, ensure you have the following installed:
 
 ## Description
 
-This project starts by loading the Breast Cancer dataset from Scikit-Learn, which contains various features related to breast tumor characteristics. It then employs Scikit-Learn's data preprocessing capabilities, including standardization, to prepare the data for machine learning.The core of the project is a neural network model created using TensorFlow's Keras API. The neural network consists of an input layer, a hidden layer with Rectified Linear Unit (ReLU) activation, and an output layer designed for binary classification (malignant or benign tumors). The model is trained on the training data and evaluated on the test data.
+This project starts by loading the Breast Cancer dataset from Scikit-Learn, which contains various features related to breast tumor characteristics. It then employs Scikit-Learn's data preprocessing capabilities, including standardization, to prepare the data for machine learning. The core of the project is a neural network model created using TensorFlow's Keras API. The neural network consists of an input layer, a hidden layer with Rectified Linear Unit (ReLU) activation, and an output layer designed for binary classification (malignant or benign tumors). The model is trained on the training data and evaluated on the test data.
 
-## Dataset used:
-🔗[Dataset](https://github.com/Sanskriti1102/Breast-Cancer-Classification-with-Neural-Network/blob/main/data.csv)
+## Dataset used
+[Dataset](https://github.com/Sanskriti1102/Breast-Cancer-Classification-with-Neural-Network/blob/main/data.csv)
 
 ## Usage
 
@@ -51,6 +51,6 @@ To use this project:
 2. Install the required Python libraries: `pip install -r requirements.txt`
 3. Run the provided Jupyter Notebook or Python script for breast cancer classification. The script will load the dataset, preprocess it, build and train the neural network model, and evaluate its performance.
 
-# 
-Task given by InternPe
+#
+Task Given by InternPe
 --
